@@ -12,5 +12,5 @@ Learning Resources: Documentation of my learning process
 
 Purpose
 This repository documents my hands-on approach to learning. While theoretical knowledge provides the foundation, it's through active experimentation and application that true understanding emerges. These labs represent my commitment to experiential learning and skill development.
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________
 "The important thing is to never stop questioning." - Albert Einstein
